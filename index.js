@@ -34,7 +34,7 @@ for (let i = 0; i < bonuses.length; i++) {
 
     li.setAttribute("id", "item");
     elem.setAttribute("id", "outer_container");
-    img.setAttribute("src", "/pet_icons/" + i + ".png");
+    img.setAttribute("src", "pet_icons/" + i + ".png");
     div2.setAttribute("class", "icons");
     div3.setAttribute("class", "level");
     div4.setAttribute("class", "bonus");
